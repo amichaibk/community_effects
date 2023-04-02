@@ -1,6 +1,6 @@
 # community_effects
 
-This repository includes the data, along with the analysis code used to for the study Interactions between culturable bacteria are highly non-additive"  https://doi.org/10.1101/2022.09.01.506178
+This repository includes the data, along with the analysis code used to for the study Competitive interactions between culturable bacteria are highly non-additive"   https://doi.org/10.7554/eLife.83398
 
 List of files is given below:
 ## Code files:
@@ -22,7 +22,7 @@ List of files is given below:
   
    ####	Raw data:
    
-   - Plate01to30, Plate31to60, Plate61to96: Endpoint reads for all strains growth on multiple carbon sources and                 antibiotics.
+   - Plate01to30, Plate31to60, Plate61to96: Endpoint reads for all strains growth on multiple carbon sources and antibiotics.
    
    -	All_seq_tree_distance_matrix: phylogenetic distance matrix for all strains.
    
@@ -39,7 +39,7 @@ List of files is given below:
    
    -	gc_data: summary of growth curve statistics for each strain
    
-   -	sample_positions: maps of samples in 96 well plate, used to connect raw data output well positions to respective          strains
+   -	sample_positions: maps of samples in 96 well plate, used to connect raw data output well positions to respective strains
       
   ###	kChip_Data: All raw data from interaction screens
   
